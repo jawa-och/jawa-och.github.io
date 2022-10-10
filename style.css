@@ -1,0 +1,45 @@
+body {
+      font-family: Monospace;
+      background: rgb(153, 204, 255);
+}
+#sitewrapper {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+  p.one {
+  border-style: solid;
+  border-width: 5px;
+  border-color: #293F95;
+  border-radius: 12px;
+  padding: 5px;
+      }
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+ 
+.topnav a:hover {
+  background-color: #bdc0c3;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #293F95;
+  color: white;
+
+h1 {
+  text-align:center;
+}
+
